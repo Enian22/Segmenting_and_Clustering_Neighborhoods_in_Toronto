@@ -3,15 +3,6 @@
 
 🔗 _To view the interactive notebook with Folium Map: [Click here](#)_
 
-## 🗂️ Table of Contents
-1. [Introduction](#1-introduction)  
-2. [Business Problem](#2-business-problem)  
-3. [Data Collection & Preprocessing](#3-data-collection--preprocessing)  
-4. [Neighborhood Analysis](#4-neighborhood-analysis)  
-5. [Clustering Neighborhoods](#5-clustering-neighborhoods)  
-6. [Cluster Examination](#6-cluster-examination)  
-7. [Discussion & Conclusion](#7-discussion--conclusion)  
-
 ## 1. 🌍 Introduction
 At some point in our lives, most of us move to a new city—whether for education, career, or personal reasons. Toronto, the largest urban area in Canada and its financial hub, is a common destination for newcomers due to its diversity, safety, and high quality of life.
 
@@ -70,24 +61,6 @@ This project takes a **light-hearted, pseudoscientific** approach to housing rec
 - `folium` (interactive maps)
 - `geopy`, `geocoder`, `requests`
 - `BeautifulSoup` (for web scraping)
-
-## 🛠️ How to Use
-
-1. Clone or download this project notebook.
-2. Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Get your own **Foursquare API credentials** and insert them into the notebook.
-4. Run all cells in order to reproduce analysis and visualizations.
-
-## 🤔 Future Ideas
-- Use real housing price/rent data per neighborhood
-- Include user survey data to match zodiac traits with actual preferences
-- Expand to other cities like New York or Paris
-- Deploy as a fun web app using Streamlit
 
 ## 📜 License
 This project is for educational and entertainment purposes. Zodiac personality traits are subjective and not scientifically validated.
