@@ -1,8 +1,6 @@
 # 🌌 The Battle of Neighborhoods: Where You Should Live in Toronto Based on Your Zodiac Sign  
 **Applied Data Science Capstone Project – IBM/Coursera**
 
-🔗 _To view the interactive notebook with Folium Map: [Click here](#)_
-
 ## 1. 🌍 Introduction
 At some point in our lives, most of us move to a new city—whether for education, career, or personal reasons. Toronto, the largest urban area in Canada and its financial hub, is a common destination for newcomers due to its diversity, safety, and high quality of life.
 
